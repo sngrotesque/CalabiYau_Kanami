@@ -1,0 +1,25 @@
+# Common
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+.vscode/
+
+build/
+
+# Platform: Android
+
+/android/build/
+
+# Platform: Windows
+
+/windows/visual_studio/
